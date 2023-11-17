@@ -19,6 +19,11 @@
       <artifactId>Spring-core</artifactId>
       <version>5.2.22.RELEASE</version>
     </dependency>
+<dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>Spring-jdbc</artifactId>
+      <version>5.2.22.RELEASE</version>
+    </dependency>
 
   </dependencies>
 </project>
